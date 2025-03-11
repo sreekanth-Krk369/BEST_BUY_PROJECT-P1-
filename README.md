@@ -79,8 +79,8 @@ This project provides a **comprehensive analysis of Best Buy’s business perfor
 
 ## 🔗 Related Links  
 📂 **Full Dataset on Kaggle:** []  
-🌍 **GitHub Repository:** []  
-📊 **Power BI Dashboard:** []  
+🌍 **GitHub Repository:** [(https://github.com/sreekanth-Krk369?tab=repositories)]  
+📊 **Power BI Dashboard:** [(https://drive.google.com/file/d/1nkUDHDESiuCnHrvoLcGuR_n24jqOGQH-/view?usp=drive_link)] 
 
 ---  
 
