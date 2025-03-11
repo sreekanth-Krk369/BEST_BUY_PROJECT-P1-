@@ -39,8 +39,9 @@ This Power BI dashboard analyzes **Best Buy's sales, profit, and customer trends
 ---
 
 ## 📂 Project Files  
-📁 **Dataset & Reports:**  
-- [`bestbuy_data.xlsx`](./bestbuy_data.xlsx) – Raw dataset used for analysis  
+📁 **Dataset & Reports:** 
+
+- [bestbuy data.xlsx](https://github.com/user-attachments/files/19182689/bestbuy.data.xlsx)– Raw dataset used for analysis  
 - [`sreekanth_BEST_BUY_REPORT.pdf`](sreekanth BEST BUY REPORT (1).pdf) – Full business report with insights  
 - 🔜 **Power BI .pbix file** (Coming Soon) – Interactive dashboard  
 
