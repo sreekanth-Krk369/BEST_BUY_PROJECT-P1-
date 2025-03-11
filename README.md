@@ -78,7 +78,7 @@ This project provides a **comprehensive analysis of Best Buy’s business perfor
 ---  
 
 ## 🔗 Related Links  
-📂 **Full Dataset on Excel:** [bestbuy data.xlsx](https://github.com/user-attachments/files/19184453/bestbuy.data.xlsx)]  
+📂 **Full Dataset on Excel:** [bestbuy data.xlsx][(https://github.com/user-attachments/files/19184453/bestbuy.data.xlsx)]  
 🌍 **GitHub Repository:** [(https://github.com/sreekanth-Krk369?tab=repositories)]  
 📊 **Power BI Dashboard:** [(https://drive.google.com/drive/folders/1XpTUBOuNozQQK1k6HW3R71Yd5CJ9G99y) ]
 
