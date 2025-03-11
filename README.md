@@ -52,7 +52,7 @@ This project utilizes **real-world sales data** from Best Buy, covering transact
 
 ---  
 
-## 📷 Dashboard Snapsh
+## 📷 Dashboard Snaps
 ### **Sales Performance Overview**  
 (<img width="725" alt="Screenshot 2025-03-11 at 4 08 26 PM" src="https://github.com/user-attachments/assets/f10c0d93-0113-405f-b445-a465d4b39bbd" />
 ots  )  
